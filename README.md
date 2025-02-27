@@ -10,7 +10,7 @@ The project implements a small REST API that allow managing tasks. Implemented i
 ## Compile & Run
 1. [Install](https://go.dev/doc/install) Go for your platform
 1. Clone the Git repository and navigate inside it
-1. Execute `go run main.go`
+1. Execute `go run main.go` from Terminal/Powershell
 
 ## Examples & Testing
 To test the tool via its REST API you can run the postman collection provided in the file `test-hsd-task-postman.json`. Import the collection into postman to run the API calls.
